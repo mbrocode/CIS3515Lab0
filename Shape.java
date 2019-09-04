@@ -1,5 +1,6 @@
 public class Shape {
 
+    protected String dimensions;
     private String name;
     public Shape(String name) {
         this.name = name;
